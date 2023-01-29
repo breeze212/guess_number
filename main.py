@@ -55,3 +55,4 @@ def game_guessing_number():
 
 
 game_guessing_number()
+print('Commit')
